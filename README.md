@@ -1,12 +1,12 @@
-### Hi there 👋
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-soltanmohammadi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirali.mohammadi78@gmail.com)
 [![Github](https://img.shields.io/github/followers/amiralism7?label=Follow&style=social)](https://github.com/amiralism7)
 
 
-- 🎓 Electrical Engineering Student @ [Amirkabir University of Technology](https://aut.ac.ir/)
-- 😄 Pronouns: He/Him
+- 😄 Hi, I’m Amirali Soltanmohammadi.
+- 🎓 Studying Electrical Engineering at [Amirkabir University of Technology](https://aut.ac.ir/) (With a minor in Computer Science) 
 - 📫 How to reach me: amirali.mohammadi78@gmail.com
   
 ### 🤔 Curious about:
