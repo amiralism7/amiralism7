@@ -6,15 +6,11 @@
 
 
 ## 😄 Hi, I’m Amirali Soltanmohammadi.
-- 🎓 Studying Electrical Engineering at [Amirkabir University of Technology](https://aut.ac.ir/) (With a minor in Computer Science) 
+- 🎓 Studying Computer Science at [University of Tehran](https://ut.ac.ir/)
 - 📫 How to reach me: amirali.mohammadi78@gmail.com
   
 ### 🤔 I'm Curious about:
 - Deep Learning
-
-  
-### 📖 Currently Learning:
-- MLOps
 
 
 ## 📋 Programming Languages
